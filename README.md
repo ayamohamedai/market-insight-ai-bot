@@ -224,9 +224,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 🙋‍♀️ Support & Contact
 
 - **Issues**: [GitHub Issues](https://github.com/yourusername/market-insight-ai-bot/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/market-insight-ai-bot/discussions)
-- **Email**: your.email@example.com
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
+- **Discussions**: [GitHub Discussions](https://github.com/AYAMOHAMEDAI/market-insight-ai-bot/discussions)
+- **Email**:dodomoh2586@gmail.com
+- **LinkedIn**: [linkedin.com/in/aya-mohamed-aiprompt-specialist-engineer)
 
 ## 🎉 Acknowledgments
 
