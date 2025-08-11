@@ -269,9 +269,9 @@ Professional AI Solutions | حلول الذكاء الاصطناعي المهن�
 🚫 Usage Rights | حقوق الاستخدام
 ⚠️ IMPORTANT NOTICE | تنويه مهم
 
-English: This prompt library is created by Aya Mohamed. Free for personal and educational use. Commercial use requires attribution. Redistribution must maintain original credits.
+ This prompt library is created by Aya Mohamed. Free for personal and educational use. Commercial use requires attribution. Redistribution must maintain original credits.
 
-العربية: مكتبة الأوامر هذه من إنشاء آية محمد. مجانية للاستخدام الشخصي والتعليمي. الاستخدام التجاري يتطلب الإسناد. إعادة التوزيع يجب أن تحافظ على الاعتمادات الأصلية.
+ مكتبة الأوامر هذه من إنشاء آية محمد. مجانية للاستخدام الشخصي والتعليمي. الاستخدام التجاري يتطلب الإسناد. إعادة التوزيع يجب أن تحافظ على الاعتمادات الأصلية.
 
 🌟 Star this repository if you find it helpful! ضع نجمة على هذا المستودع إذا وجدته مفيداً!
 
